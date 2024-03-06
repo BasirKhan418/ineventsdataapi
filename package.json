@@ -1,7 +1,7 @@
 {
-  "name": "myfirstnpmpackage",
+  "name": "ineventsdataapi",
   "version": "1.0.0",
-  "description": "simplecalculator",
+  "description": "ineventsdataapi is a simple API that allows you to create, read, update and delete events.",
   "main": "index.js",
   "type": "module",
   "scripts": {
