@@ -1,6 +1,6 @@
 {
   "name": "ineventsdataapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ineventsdataapi is a simple API that allows you to create, read, update and delete events.",
   "main": "index.js",
   "type": "module",
